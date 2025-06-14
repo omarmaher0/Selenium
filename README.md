@@ -4,8 +4,7 @@ Use Selenium in Google Colab without errors
 <img width="250" align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*qPPJzefFS8_uMzQw61bZfA.gif">
 
 <h3 align="center">
-  Welcome to my graduation project
-  <img src="https://cdn-icons-png.flaticon.com/512/11892/11892629.png" width="28">
+  Solved 100% | Selenium works perfectly
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
