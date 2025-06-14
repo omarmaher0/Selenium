@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*qPPJzefFS8_uMzQw61bZfA.gif">
 
 <h3 align="center">
-  Solved 100% | Selenium works perfectly
+  Solved 100% | 
   Use Selenium in Google Colab without errors
 </h3>
 
