@@ -1,10 +1,9 @@
-![image](https://github.com/user-attachments/assets/839cc7c0-5e3a-42d7-a647-68149f7b4d82)# Selenium
-Use Selenium in Google Colab without errors
 
 <img width="250" align="right" src="https://miro.medium.com/v2/resize:fit:1400/1*qPPJzefFS8_uMzQw61bZfA.gif">
 
 <h3 align="center">
   Solved 100% | Selenium works perfectly
+  Use Selenium in Google Colab without errors
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
